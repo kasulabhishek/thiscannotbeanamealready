@@ -1,0 +1,29 @@
+h1,p {     
+    color:blue;
+    text-align:center;
+   
+}
+#top{ 
+    font-size: 36px;
+}
+#middle{
+    font-size: 24px;
+}
+#bottom{
+    font-size: 12px;
+}
+.name{
+    font-weight: bold;
+}
+
+div{
+    background-color:bisque;
+    color:black;
+    margin: 30px;
+    padding: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 28px;
+    font-weight: bold;
+    border:6px solid black;
+} 
+
